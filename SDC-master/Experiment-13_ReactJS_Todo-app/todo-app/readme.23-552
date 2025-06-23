@@ -1,0 +1,16 @@
+# ReactJS To-Do App
+
+> **Note:** I was not able to execute this project in the current environment. However, these are the features that are intended to be included in this folder/project:
+
+## Intended Features
+- Add, edit, and delete tasks quickly
+- Mark tasks as complete or pending
+- Clean, responsive UI for all devices
+- Organized codebase for easy learning and extension
+
+## Folder Structure
+- `src/`: React components, state logic, and styles
+- `public/`: Static assets and HTML template
+
+---
+Try adding user authentication, task filters, or persistent storage for more advanced features!
